@@ -7,3 +7,4 @@
 - displayselect (Choose multi-monitor setup, or one display)
 - dmenupass (Used for 'sudo -A' or ASKPASS variable)
 - prompt (Used in many sxhkd bindings)
+- more coming...
